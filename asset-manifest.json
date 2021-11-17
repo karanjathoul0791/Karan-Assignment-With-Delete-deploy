@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Karan-Assignment-With-Delete-deploy/static/css/main.3e040c45.chunk.css",
+    "main.js": "/Karan-Assignment-With-Delete-deploy/static/js/main.0ba0a469.chunk.js",
+    "main.js.map": "/Karan-Assignment-With-Delete-deploy/static/js/main.0ba0a469.chunk.js.map",
+    "runtime-main.js": "/Karan-Assignment-With-Delete-deploy/static/js/runtime-main.5f526269.js",
+    "runtime-main.js.map": "/Karan-Assignment-With-Delete-deploy/static/js/runtime-main.5f526269.js.map",
+    "static/css/2.383c0125.chunk.css": "/Karan-Assignment-With-Delete-deploy/static/css/2.383c0125.chunk.css",
+    "static/js/2.0f0a321e.chunk.js": "/Karan-Assignment-With-Delete-deploy/static/js/2.0f0a321e.chunk.js",
+    "static/js/2.0f0a321e.chunk.js.map": "/Karan-Assignment-With-Delete-deploy/static/js/2.0f0a321e.chunk.js.map",
+    "static/js/3.239161ee.chunk.js": "/Karan-Assignment-With-Delete-deploy/static/js/3.239161ee.chunk.js",
+    "static/js/3.239161ee.chunk.js.map": "/Karan-Assignment-With-Delete-deploy/static/js/3.239161ee.chunk.js.map",
+    "index.html": "/Karan-Assignment-With-Delete-deploy/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Karan-Assignment-With-Delete-deploy/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.3e040c45.chunk.css.map": "/Karan-Assignment-With-Delete-deploy/static/css/main.3e040c45.chunk.css.map",
+    "static/js/2.0f0a321e.chunk.js.LICENSE.txt": "/Karan-Assignment-With-Delete-deploy/static/js/2.0f0a321e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f526269.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.0f0a321e.chunk.js",
+    "static/css/main.3e040c45.chunk.css",
+    "static/js/main.0ba0a469.chunk.js"
+  ]
+}
